@@ -1,0 +1,17 @@
+Variables
+
+activity_labels - table of content of activity_labels.txt
+
+features - Names of for data columns derived from featuresList
+
+a_test - table contents of X_test.txt
+
+b_test - table contents of Y_test.txt
+
+subject_test - table of content of subject_test.txt
+
+a_train - table contents of X_train.txt
+
+b_train - table contents of Y_train.txt
+
+subject_train - table of content of subject_train.txt
