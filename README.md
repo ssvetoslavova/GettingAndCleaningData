@@ -1,6 +1,6 @@
 https://class.coursera.org/getdata-013
 
-run_analysis.R that does the following. 
+run_analysis.R works with reshape2 package (please install it before running) and it does the following: 
 
 1 Merges the training and the test sets to create one data set.
 
